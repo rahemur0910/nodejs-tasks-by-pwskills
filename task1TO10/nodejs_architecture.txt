@@ -1,0 +1,7 @@
+
+Node.js Architecture:
+
+Node.js follows a single-threaded event-driven architecture that uses non-blocking I/O operations, making it efficient for handling concurrent connections. 
+It is built on the V8 JavaScript engine, developed by Google, which compiles JavaScript code into native machine code. 
+Node.js uses an event loop to handle asynchronous operations, allowing it to process multiple requests concurrently without creating new threads for each request. 
+This architecture makes Node.js suitable for building scalable and high-performance applications.
